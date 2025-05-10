@@ -30,17 +30,19 @@ The relationships between the entities are as follows:
 * The shopping **cart** is a dependent entities of **Customer**. Each instance of Cart is related to a product, so both entities have **many-to-one relationships** with **Product**.
 
 # ER Diagram and Attributes
+<img width="500" alt="OnlineStoreDB_ERD" src="https://github.com/user-attachments/assets/e499e38f-c5aa-4670-a7b5-43e0c802e2c5" />
 
 
-# Contributions
+
+# 🤝🏿Contributions
 * Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 * If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 * **Fork the Project**:
-- Create your Feature Branch (git checkout -b feature/AmazingFeature)
-- Commit your Changes (git commit -m 'Add some AmazingFeature')
-- Push to the Branch (git push origin feature/AmazingFeature)
+- Create your Feature Branch (*git checkout -b feature/AmazingFeature*)
+- Commit your Changes (*git commit -m 'Add some AmazingFeature'*)
+- Push to the Branch (*git push origin feature/AmazingFeature*)
 - Open a Pull Request
 
 ---
